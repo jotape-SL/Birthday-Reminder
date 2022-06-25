@@ -1,0 +1,60 @@
+:root{
+    --amarelao: #fcdb03;
+    --pretao: #000000;
+    --brancao: #ffffff;
+    --azulzao: #180ee3;
+    --removerIcone:25px;
+}
+@font-face {
+    font-family: "Press2P";
+    src: url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+}
+
+main{
+    background-color: var(--amarelao);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    font-family: 'Staatliches', cursive;
+}
+
+.conteudo{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    background-color: var(--pretao);
+    color: var(--brancao);
+    padding: 2rem;
+    border-radius: 15px;
+    border: 5px solid var(--brancao);
+    box-shadow: 0 10px 25px 5px var(--pretao);
+}
+
+.conteudo__section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 1rem;
+}
+
+.conteudo__titulo{
+    font-size: 4rem;
+}
+.conteudo__img{
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 100%;
+    margin-right: 1rem;
+}
+
+.conteudo__descricao{
+    font-size: 1.3rem;
+}
+
+.material-symbols-outlined{
+    padding: .6rem;
+    cursor: pointer;
+}
