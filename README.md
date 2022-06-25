@@ -53,7 +53,7 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://gith
 
 ## Agradecimento
 
-Agradecimento ao John do canal [codding addict](https://www.youtube.com/c/CodingAddict/featured) por proporcionar o [curso de React](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org) gratuito no youtube, compilado pela [freecodecamp.org](freecodecamp.org)
+Agradecimento ao John do canal [codding addict](https://www.youtube.com/c/CodingAddict/featured) por proporcionar o [curso de React](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org) gratuito no youtube, compilado pela [freecodecamp.org](https://www.freecodecamp.org/)
 
 ---
 
