@@ -49,7 +49,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
 
 ## Agradecimento
 
