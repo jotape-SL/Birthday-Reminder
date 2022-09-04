@@ -1,6 +1,14 @@
+<div align=center>
+
 # Birthday Reminder
 
 Uma lista de aniversariantes onde você pode remover cada um individualmente, feito para exercitar React.
+
+![image](https://user-images.githubusercontent.com/102804110/188294511-ae2d1256-8059-4892-9a55-ceee82754cd2.png)
+
+</div>
+
+
 
 ## 🚀 Como executar o projeto
 
@@ -30,8 +38,6 @@ $npm start
 
 - **[Birthday Reminder](https://birthday-reminder-rust.vercel.app/)**
 
----
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -40,6 +46,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 - **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 - **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+- **[React](https://pt-br.reactjs.org/docs/getting-started.html)**
 
 ## ✒️ Autores
 
@@ -54,6 +61,3 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://gith
 ## Agradecimento
 
 Agradecimento ao John do canal [codding addict](https://www.youtube.com/c/CodingAddict/featured) por proporcionar o [curso de React](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org) gratuito no youtube, compilado pela [freecodecamp.org](https://www.freecodecamp.org/)
-
----
-
